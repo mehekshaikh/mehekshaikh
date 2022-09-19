@@ -1,8 +1,8 @@
 - 👋 Hola, I’m @mehekshaikh
 - 😁I’m an IT Student
-- Angular, Javascript Developer 
+- 😃 Angular, Javascript Developer 
 - 👀 I’m interested in programming which challenges my skills.
-- 🌱 I’m currently learning SCSS and Angular.
+- 🌱 I’m currently learning everything which fascinates me
 - 🙂 I’m looking forward to collaborate with other developers.
 <!---
 mehekshaikh/mehekshaikh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
