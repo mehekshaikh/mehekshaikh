@@ -1,5 +1,6 @@
 - 👋 Hola, I’m @mehekshaikh
 - 😁I’m an IT Student
+- Angular, Javascript Developer 
 - 👀 I’m interested in programming which challenges my skills.
 - 🌱 I’m currently learning SCSS and Angular.
 - 🙂 I’m looking forward to collaborate with other developers.
